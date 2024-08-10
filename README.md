@@ -3,9 +3,9 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Nmap and Wireshark Analysis</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - 
+  
+
 
 <h2> 🤳 Connect with me:</h2>
 
