@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/> <a href="www.linkedin.com/in/daniel-solano-478373165">Cybersecurity Professional</a>
+<h1>Hi, I'm Daniel! <br/>  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
